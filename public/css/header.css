@@ -1,0 +1,6 @@
+.navbar-nav > li > a {
+    padding: 30px 13px;
+}
+.navbar {
+    border-bottom: 1px solid white;
+}

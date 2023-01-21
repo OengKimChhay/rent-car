@@ -1,0 +1,68 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+
+    color: #333;
+}
+
+/* --------------------Home Page------------------ */
+.home-banner {
+    background-image: url("../image/banner/home-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.content-banner {
+    padding-top: 200px;
+}
+.book-form {
+    background: #fff;
+    padding: 30px 40px 30px 40px;
+    max-width: 100%;
+    width: 300px;
+    margin: 0 auto 50px;
+    font-size: 12px;
+}
+.book-form button {
+    font-size: 12px;
+}
+.benefit-title p {
+    font-size: 18px;
+    line-height: 1.3;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-clip: inherit;
+    background-color: inherit;
+    -webkit-text-fill-color: #333;
+}
+.description-text {
+    color: #666666;
+    font-size: 13px;
+}
+.rental-fleet{
+    margin-top: 100px;
+    position: relative;
+}
+.fleet .fleet-detail{
+    border-radius: 5px;
+    background-color: #e8eeff;
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.fleet-banner{
+    background-image: url(../image/background/car.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 504px;
+    margin-left: 137px;
+    border-radius: 5px;
+}
