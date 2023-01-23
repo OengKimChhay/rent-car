@@ -7,6 +7,9 @@ html {
 }
 
 /* --------------------Home Page------------------ */
+#header{
+    z-index: 100;
+}
 .home-banner {
     background-image: url("../image/banner/home-banner.jpg");
     background-repeat: no-repeat;
@@ -14,7 +17,7 @@ html {
     background-size: cover;
 }
 .content-banner {
-    padding-top: 200px;
+    padding-top: 180px;
 }
 .book-form {
     background: #fff;
@@ -63,6 +66,6 @@ html {
     background-position: center center;
     background-size: cover;
     height: 504px;
-    margin-left: 137px;
+    margin-left: 90px;
     border-radius: 5px;
 }

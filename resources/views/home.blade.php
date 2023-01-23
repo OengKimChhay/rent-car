@@ -4,14 +4,14 @@
     <div class="home-banner">
         <div class="container content-banner ">
             <div class="row">
-                <div class="col-lg-6 col-sm-12 d-flex align-items-center">
+                <div class="col-lg-6 col-sm-12 mt-5 d-flex align-items-center">
                     <div class="raise-text text-white">
                         <h1>Book Your Auto Rental</h1>
                         <h4>Luxury Cars at low-cost, starts <span class="text-danger">$75 / day</span>
                             from over 100 premium locations</h4>
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-12">
+                <div class="col-lg-6 col-sm-12 mt-5">
                     <div class="book-form">
                         <form action="" method="post">
                             <div class="mb-4">
